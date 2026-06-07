@@ -6,7 +6,7 @@
 
 1. Download the latest **`md.dmg`** from the [Releases](../../releases) page.
 2. Open the DMG and drag **md** into your **Applications** folder.
-3. Launch it
+3. Launch it from Finder or right click a `.md` file and choose Open With -> md
 
 ### Optional: the `md` command line
 
