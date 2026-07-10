@@ -21,3 +21,7 @@ md README.md CHANGELOG.md
 
 - **macOS 11 Big Sur or later**
 - **Apple Silicon** (M1 or newer). Intel Macs are not supported.
+
+## Features
+
+- View and print rendered Markdown files
